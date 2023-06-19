@@ -1,0 +1,28 @@
+@import url('https://fonts.cdnfonts.com/css/gilam?styles=63130,63138,63128');
+html, body, div, span, table, em, font, img, var, h1, h2, h3, h4, h5, h6, p, blockquote, a, ol, ul, li, form {
+	font-family: "Gilam";
+	font-weight: 400;
+	font-style: normal;
+	font-size: 100%;
+	padding: 0;
+	margin: 0;
+	vertical-align: baseline;
+	}
+	
+article, aside, figcaption, figure, footer, header, menu, nav, section {
+	display: block;
+	}
+	
+body {
+	background: white;
+    box-sizing: content-box;
+	}
+ol, ul, li {
+	list-style: none;
+	}
+a {
+    text-decoration: none;
+}
+p {
+	color: #FFFFFF;
+}
