@@ -1,7 +1,6 @@
 @import url('https://fonts.cdnfonts.com/css/circe?styles=15451');
 .container {
     width: 1920px;
-    height: 4000px;
     margin: 0 auto;
     padding-left: 0;
     padding-right: 0;
@@ -150,7 +149,6 @@ h1{
     padding-top: 47px;
     padding-left: 52px;
     font-weight: 500;
-    height: 405px;
 }
 .machine-6 {
     grid-area: 3 / 3 / 5 / 4;
